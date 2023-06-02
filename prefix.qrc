@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>ball.png</file>
+        <file>cards.png</file>
+        <file>grass.jpg</file>
+        <file>messi.png</file>
+        <file>ronaldo.png</file>
+        <file>seats.png</file>
+        <file>world cup.png</file>
+        <file>hearts1.jpg</file>
+        <file>hearts2.jpg</file>
+        <file>hearts3.jpg</file>
+        <file>home.png</file>
+        <file>gangsta.png</file>
+        <file>police enemy.png</file>
+        <file>lava0001.png</file>
+        <file>openingpic.jpg</file>
+        <file>GTA Micheal.jpg</file>
+        <file>ronaldo world cup.jpeg</file>
+        <file>ronaldo lose.jpeg</file>
+        <file>ronaldo v2.png</file>
+        <file>messi v2.png</file>
+    </qresource>
+    <qresource prefix="/Board">
+        <file>mapofgame.txt</file>
+    </qresource>
+</RCC>
